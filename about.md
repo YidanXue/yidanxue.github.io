@@ -18,8 +18,8 @@ Project Title: Multi-scale modelling of cerebral metabolism<br/><br/>
 
 Dissertation: Computational simulation and validation of flows in branching blood vessels<br/><br/> 
 
-2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering
-<br/><br/> 
+2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering<br/><br/> 
+
 
 ### Research Experience
 
