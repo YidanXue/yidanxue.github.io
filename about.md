@@ -8,7 +8,7 @@ permalink: /about/
 DPhil Student in Biomedical Engineering at Hertford College, Oxford<br/><br/> 
 
 
-##Education<br/><br/>
+## Education<br/><br/>
 
 2019 - present   **University of Oxford**, Engineering Science (DPhil)
 
@@ -21,7 +21,7 @@ Dissertation: Computational simulation and validation of flows in branching bloo
 2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering<br/><br/> 
 
 
-##Research Experience<br/><br/>
+## Research Experience<br/><br/>
 
 2018.7 - 2018.9   State Key Laboratory of High Temperature Gas Dynamics, **Chinese Academy of Sciences**
 
@@ -33,7 +33,7 @@ LES simulation of H2-O2 gaseous supercritical combustion
 RANS simulation of split fuel injection inside internal combustion engines
 <br/><br/> 
 
-##Honours and Awards<br/><br/>
+## Honours and Awards<br/><br/>
 
 IMechE Best Student Certificate BEng, 2019
 
@@ -44,6 +44,6 @@ Summer Student Scholarship, 2018
 1st Prize Scholarship for Academic Excellence, 2016
 <br/><br/> 
 
-##Memberships<br/><br/>
+## Memberships<br/><br/>
 
 **VPH Institute**, Student Member
