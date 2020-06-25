@@ -8,7 +8,7 @@ permalink: /about/
 DPhil Student in Biomedical Engineering at Hertford College, Oxford<br/><br/> 
 
 
-## Education <br/>
+## Education ##
 
 2019 - present   **University of Oxford**, Engineering Science (DPhil)
 
