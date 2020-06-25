@@ -10,25 +10,25 @@ DPhil Student in Biomedical Engineering at Hertford College, Oxford<br/><br/>
 
 ### Education <br/><br/>
 
-2019 - present   **University of Oxford**, Engineering Science (DPhil)
+2019 - present &nbsp **University of Oxford**, Engineering Science (DPhil)
 
 Project Title: Multi-scale modelling of cerebral metabolism<br/><br/> 
 
-2017 - 2019   **The University of Edinburgh**, Mechanical Engineering (BEng 1st Class Honours)
+2017 - 2019 &nbsp **The University of Edinburgh**, Mechanical Engineering (BEng 1st Class Honours)
 
 Dissertation: Computational simulation and validation of flows in branching blood vessels<br/><br/> 
 
-2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering<br/><br/> 
+2015 - 2017 &nbsp **Xiamen University**, Aircraft Propulsion Engineering<br/><br/> 
 
 
 ### Research Experience <br/><br/>
 
-2018.7 - 2018.9   State Key Laboratory of High Temperature Gas Dynamics, **Chinese Academy of Sciences**
+2018.7 - 2018.9 &nbsp State Key Laboratory of High Temperature Gas Dynamics, **Chinese Academy of Sciences**
 
 LES simulation of H2-O2 gaseous supercritical combustion
 <br/><br/> 
 
-2018.5 - 2018.7   School of Engineering, **The University of Edinburgh**
+2018.5 - 2018.7 &nbsp School of Engineering, **The University of Edinburgh**
 
 RANS simulation of split fuel injection inside internal combustion engines
 <br/><br/> 
