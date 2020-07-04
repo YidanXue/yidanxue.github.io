@@ -10,4 +10,4 @@ permalink: /research/
 - Computational Fluid Dynamics
 - Haemodynamics
 
-I am currently a DPhil student at Institute of Biomedical Engineering, University of Oxford.
+I am a DPhil student at Institute of Biomedical Engineering, University of Oxford. I am currently modelling the oxygen delivery and metabolism inside the human brain at multiple scales, to study the brain behaviour under both physiological and pathophysiological conditions. 
