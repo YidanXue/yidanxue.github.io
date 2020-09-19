@@ -10,6 +10,6 @@ permalink: /publications/
 
 ### Conference Presentations
 
-**Xue, Y.**, Payne, S. 2019. _Modelling brain metabolism in ischaemic stroke: oxygen consumption and energy budget_. VPH2020 (online), Paris, France. Poster.
+**Xue, Y.**, Payne, S. 2020. _Modelling brain metabolism in ischaemic stroke: oxygen consumption and energy budget_. VPH2020 (online), Paris, France. Poster.
 
 **Xue, Y.**, Hellmuth, R. and Shin, D. 2019. _Characteristics of Wakes in Branching Blood Vessels under Re = 500_. 32nd Scottish Fluid Mechanics Meeting, Dundee, United Kingdom. Poster.
