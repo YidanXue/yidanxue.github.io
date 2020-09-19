@@ -12,7 +12,7 @@ DPhil Student in Biomedical Engineering at Hertford College, Oxford<br/><br/>
 
 2019 - present &emsp; **University of Oxford**, Engineering Science (DPhil)
 
-Project Title: Multi-scale modelling of cerebral metabolism<br/><br/> 
+Project Title: Multi-scale Modelling of Oxygen Delivery and Metabolism in the Human Brain<br/><br/> 
 
 2017 - 2019 &emsp; **The University of Edinburgh**, Mechanical Engineering (BEng 1st Class Honours)
 
