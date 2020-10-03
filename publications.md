@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### Journal Articles
 
-[**Xue, Y.**, Hellmuth, R. and Shin, D. 2020. _Formation of Vortices in Idealised Branching Vessels: A CFD Benchmark Study_. Cardiovascular Engineering and Technology. **11**(5), pp.544-559.](https://doi.org/10.1007/s13239-020-00477-9)
-
 ![an image alt text]({{ site.baseurl }}/images/CVET_October_Cover.jpg "an image title")
+
+[**Xue, Y.**, Hellmuth, R. and Shin, D. 2020. _Formation of Vortices in Idealised Branching Vessels: A CFD Benchmark Study_. Cardiovascular Engineering and Technology. **11**(5), pp.544-559.](https://doi.org/10.1007/s13239-020-00477-9)
 
 ### Conference Presentations
 
