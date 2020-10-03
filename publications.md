@@ -8,7 +8,11 @@ permalink: /publications/
 
 [**Xue, Y.**, Hellmuth, R. and Shin, D. 2020. _Formation of Vortices in Idealised Branching Vessels: A CFD Benchmark Study_. Cardiovascular Engineering and Technology. **11**(5), pp.544-559.](https://doi.org/10.1007/s13239-020-00477-9)
 
+![an image alt text]({{ site.baseurl }}/images/CVET_October_Cover.jpg "Figure on the cover page.")
+
 ### Conference Presentations
+
+**Xue, Y.**, Hellmuth, R. and Shin, D. 2020. _Formation of Vortices in Idealised Branching Vessels: A Parametric Validation Study with HELYX and Dakota_. VINAS Online Users Conference 2020. Presentation.
 
 **Xue, Y.**, Payne, S. 2020. _Modelling brain metabolism in ischaemic stroke: oxygen consumption and energy budget_. VPH2020 (online), Paris, France. Poster.
 
