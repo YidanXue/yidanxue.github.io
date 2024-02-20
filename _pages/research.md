@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
