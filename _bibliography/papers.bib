@@ -4,9 +4,11 @@
 @article{Xue2023b,
   title={Stokes flows in a 2D bifurcation},
   author={Xue, Yidan and Payne, Stephen J and Waters, Sarah L},
+  abstract={The flow network model is an established approach to approximate pressure-flow relationships in a network, which has been widely used in many contexts. However, little is known about the impact of bifurcation geometry on such approximations, so the existing models mostly rely on unidirectional flow assumption and Poiseuille's law, and thus neglect the flow details at each bifurcation. In this work, we address these limitations by computing Stokes flows in a 2D bifurcation using LARS (Lightning-AAA Rational Stokes), a novel mesh-free algorithm for solving 2D Stokes flow problems utilising an applied complex analysis approach based on rational approximation of the Goursat functions. Using our 2D bifurcation model, we show that the fluxes in two child branches depend on not only pressures and widths of inlet and outlet branches, as most previous studies have assumed, but also detailed bifurcation geometries (e.g. bifurcation angle), which were not considered in previous studies. The 2D Stokes flow simulations allow us to represent the relationship between pressures and fluxes of a bifurcation using an updated flow network, which considers the bifurcation geometry and can be easily incorporated into previous flow network approaches. The errors in the flow conductance of a channel in a bifurcation approximated using Poiseuille's law can be greater than 16%, when the centreline length is twice the inlet channel width and the bifurcation geometry is highly asymmetric. In addition, we present details of 2D Stokes flow features, such as flow separation in a bifurcation and flows around fixed objects at different locations, which previous flow network models cannot capture. These findings suggest the importance of incorporating detailed flow modelling techniques alongside existing flow network approaches when solving complex flow problems.},
   journal={arXiv},
   year={2023},
   doi={10.48550/arXiv.2309.11230},
+  html={https://doi.org/10.48550/arXiv.2309.11230},
   google_scholar_id={UebtZRa9Y70C},
   preview={pressure_cases_particle.png}
 }
@@ -14,17 +16,21 @@
 @article{Xue2023a,
   title={Computation of 2D Stokes flows via lightning and AAA rational approximation},
   author={Xue, Yidan and Waters, Sarah L and Trefethen, Lloyd N},
+  abstract={Low Reynolds number fluid flows are governed by the Stokes equations. In two dimensions, Stokes flows can be described by two analytic functions, known as Goursat functions. Brubeck and Trefethen (2022) recently introduced a lightning Stokes solver that uses rational functions to approximate the Goursat functions in polygonal domains. In this paper, we present the "LARS" algorithm (Lightning-AAA Rational Stokes) for computing 2D Stokes flows in domains with smooth boundaries and multiply-connected domains using lightning and AAA rational approximation (Nakatsukasa et al., 2018). After validating our solver against known analytical solutions, we solve a variety of 2D Stokes flow problems with physical and engineering applications. Using these examples, we show rational approximation can now be used to compute 2D Stokes flows in general domains. The computations take less than a second and give solutions with at least 6-digit accuracy.},
   journal={arXiv (SISC, to appear)},
   year={2023},
   doi={10.48550/arXiv.2306.13545},
+  html={https://doi.org/10.48550/arXiv.2306.13545},
   google_scholar_id={Se3iqnhoufwC},
   preview={heart_closeup.png},
+  code={https://github.com/YidanXue/LARS},
   selected={true}
 }
 
 @article{Xue2022,
   title={Quantification of hypoxic regions distant from occlusions in cerebral penetrating arteriole trees},
   author={Xue, Yidan and Georgakopoulou, Theodosia and Van der Wijk, Anne-Eva and J{\'o}zsa, Tam{\'a}s I and van Bavel, Ed and Payne, Stephen J},
+  abstract={The microvasculature plays a key role in oxygen transport in the mammalian brain. Despite the close coupling between cerebral vascular geometry and local oxygen demand, recent experiments have reported that microvascular occlusions can lead to unexpected distant tissue hypoxia and infarction. To better understand the spatial correlation between the hypoxic regions and the occlusion sites, we used both in vivo experiments and in silico simulations to investigate the effects of occlusions in cerebral penetrating arteriole trees on tissue hypoxia. In a rat model of microembolisation, 25 &mu;m microspheres were injected through the carotid artery to occlude penetrating arterioles. In representative models of human cortical columns, the penetrating arterioles were occluded by simulating the transport of microspheres of the same size and the oxygen transport was simulated using a Green’s function method. The locations of microspheres and hypoxic regions were segmented, and two novel distance analyses were implemented to study their spatial correlation. The distant hypoxic regions were found to be present in both experiments and simulations, and mainly due to the hypoperfusion in the region downstream of the occlusion site. Furthermore, a reasonable agreement for the spatial correlation between hypoxic regions and occlusion sites is shown between experiments and simulations, which indicates the good applicability of in silico models in understanding the response of cerebral blood flow and oxygen transport to microemboli.},
   journal={PLOS Computational Biology},
   volume={18},
   number={8},
@@ -32,7 +38,9 @@
   year={2022},
   publisher={Public Library of Science San Francisco, CA USA},
   doi={10.1371/journal.pcbi.1010166},
+  html={https://doi.org/10.1371/journal.pcbi.1010166},
   google_scholar_id={Tyk-4Ss8FVUC},
+  altmetric={true},
   preview={po2_distribution_blockage.png},
   selected={true}
 }
@@ -40,26 +48,32 @@
 @article{Miller2021,
   title={In silico trials for treatment of acute ischemic stroke: design and implementation},
   author={Miller, Claire and Padmos, Raymond M and van der Kolk, Max and J{\'o}zsa, Tam{\'a}s I and Samuels, Noor and Xue, Yidan and Payne, Stephen J and Hoekstra, Alfons G},
-  journal={Computers in biology and medicine},
+  abstract={An in silico trial simulates a disease and its corresponding therapies on a cohort of virtual patients to support the development and evaluation of medical devices, drugs, and treatment. In silico trials have the potential to refine, reduce cost, and partially replace current in vivo studies, namely clinical trials and animal testing. We present the design and implementation of an in silico trial for treatment of acute ischemic stroke. We propose an event-based modelling approach for the simulation of a disease and injury, where changes to the state of the system (the events) are assumed to be instantaneous. Using this approach we are able to combine a diverse set of models, spanning multiple time scales, to model acute ischemic stroke, treatment, and resulting brain tissue injury. The in silico trial is designed to be modular to aid development and reproducibility. It provides a comprehensive framework for application to any potential in silico trial. A statistical population model is used to generate cohorts of virtual patients. Patient functional outcomes are also predicted with a statistical model, using treatment and injury results and the patient's clinical parameters. We demonstrate the functionality of the event-based modelling approach and trial framework by running proof of concept in silico trials. The proof of concept trials simulate the same cohort of patients twice: once with successful treatment (successful recanalisation) and once with unsuccessful treatment (unsuccessful treatment). Ways to overcome some of the challenges and difficulties in setting up such an in silico trial are discussed, such as validation and computational limitations.},
+  journal={Computers in Biology and Medicine},
   volume={137},
   pages={104802},
   year={2021},
   publisher={Elsevier},
   doi={10.1016/j.compbiomed.2021.104802},
+  html={https://doi.org/10.1016/j.compbiomed.2021.104802},
   google_scholar_id={9yKSN-GCB0IC},
+  altmetric={true},
   preview={whole_brain.jpg},
 }
 
 @article{Xue2021,
   title={Modelling the effects of cerebral microthrombi on tissue oxygenation and cell death},
   author={Xue, Yidan and El-Bouri, Wahbi K and J{\'o}zsa, Tam{\'a}s I and Payne, Stephen J},
+  abstract={Thrombectomy, the mechanical removal of a clot, is the most common way to treat ischaemic stroke with large vessel occlusions. However, perfusion cannot always be restored after such an intervention. It has been hypothesised that the absence of reperfusion is at least partially due to the clot fragments that block the downstream vessels. In this paper, we present a new way of quantifying the effects of cerebral microthrombi on oxygen transport to tissue in terms of hypoxia and ischaemia. The oxygen transport was simulated with the Green’s function method on physiologically representative microvascular cubes, which was found independent of both microvascular geometry and length scale. The microthrombi occlusions were then simulated in the microvasculature, which were extravasated over time with a new thrombus extravasation model. The tissue hypoxic fraction was fitted as a sigmoidal function of vessel blockage fraction, which was then taken to be a function of time after the formation of microthrombi occlusions. A novel hypoxia-based 3-state cell death model was finally proposed to simulate the hypoxic tissue damage over time. Using the cell death model, the impact of a certain degree of microthrombi occlusions on tissue viability and microinfarct volume can be predicted over time. Quantifying the impact of microthrombi on oxygen transport and tissue death will play an important role in full brain models of ischaemic stroke and thrombectomy.},
   journal={Journal of Biomechanics},
   volume={127},
   pages={110705},
   year={2021},
   publisher={Elsevier},
   doi={10.1016/j.jbiomech.2021.110705},
+  html={https://doi.org/10.1016/j.jbiomech.2021.110705},
   google_scholar_id={eQOLeE2rZwMC},
+  altmetric={true},
   preview={PO2_visualisation.png},
   selected={true}
 }
@@ -67,6 +81,13 @@
 @article{Xue2020,
   title={Formation of vortices in idealised branching vessels: a CFD benchmark study},
   author={Xue, Yidan and Hellmuth, Rudolf and Shin, Dong-hyuk},
+  abstract={<p>Purpose: Atherosclerosis preferentially occurs near the junction of branching vessels, where blood recirculation tends to occur (Malek et al. in J Am Med Assoc 282(21):2035–2042, 1999, https://doi.org/10.1001/jama.282.21.2035). For decades, CFD has been used to predict flow patterns such as separation and recirculation zones in hemodynamic models, but those predictions have rarely been validated with experimental data. In the context of verification and validation (V&V), we first conduct a CFD benchmark calculation that reproduces the vortex detection experiments of Karino and Goldsmith (1980) with idealised branching blood vessels (Karino and Goldsmith in Trans. Am. Soc. Artif. Internal Organs 26:500–506, 1980). The critical conditions for the formation of recirculation vortices, the so-called critical Reynolds numbers, are the main parameters for comparison with the experimental data to demonstrate the credibility of the CFD workflow. We then characterise the wall shear stresses and develop a surrogate model for the size of formed vortices.</p>
+
+<p>Methods: An automated parametric study generating more than 12,000 CFD simulations was performed, sweeping the geometries and flow conditions found in the experiments by Karino and Goldsmith. The flow conditions were restricted to steady-state laminar flow, with a range of inflow Reynolds numbers up to 350, with various flow ratios between the main branch outlet and side branch outlet. The side branch diameter was scaled relative to the main branch diameter, ranging from 1.05/3 to 3/3; and the branching angles ranged in size from  to . Recirculation vortices were detected by the inversion of the velocity vector at certain locations, as well as by the inversion of the wall shear stress (WSS) vector.</p>
+
+<p>Results: The CFD simulations demonstrated good agreement with the experimental data on the critical Reynolds numbers. The spatial distributions of WSS on each branch were analysed to identify potential regions of disease. Once a vortex is formed, the size of the vortex increases by the square root of the Reynolds number. The CFD data was fitted to a surrogate model that accurately predicts the vortex size without the need to run computationally more expensive CFD simulations.</p>
+
+<p>Conclusions: This benchmark study validates the CFD simulation of vortex detection in idealised branching vessels under comprehensive flow conditions. This work also proposes a surrogate model for the size of the vortex, which could reduce the computational requirements in the studies related to branching vessels and complex vascular systems.</p>},
   journal={Cardiovascular Engineering and Technology},
   volume={11},
   number={5},
@@ -74,7 +95,9 @@
   year={2020},
   publisher={Springer},
   doi={10.1007/s13239-020-00477-9},
+  html={https://doi.org/10.1007/s13239-020-00477-9},
   google_scholar_id={qjMakFHDy7sC},
+  altmetric={true},
   preview={re_245.png},
   selected={true}
 }

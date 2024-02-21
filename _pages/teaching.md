@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/teaching.md -->
 <div class="page">
 <p><strong>University of Oxford</strong></p>
 

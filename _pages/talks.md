@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/talks.md -->
 <div class="page">
 
 <p><strong>speaking invitations</strong></p>
