@@ -5,7 +5,7 @@ permalink: /research/
 description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [engineering, mathematics]
 horizontal: false
 ---
 
