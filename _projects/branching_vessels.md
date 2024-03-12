@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Formation of vortices in branching blood vessels
-description: My BEng Honours project
+description: Impact of flow conditions on the recirculation zones near a 3D bifurcation
 img: assets/img/publication_preview/re_245.png
-importance: 2
-category: engineering
+importance: 5
+# category:
 related_publications: false
 ---
 

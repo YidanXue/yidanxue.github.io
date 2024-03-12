@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Fuel injection in internal combustion engines
-description: My summer research project
+description: A reduced-order simulation of steady and decelerating jets
 img: assets/video/jet.mp4
-importance: 3
-category: engineering
+importance: 6
+# category:
 related_publications: false
 ---
 
