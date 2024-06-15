@@ -12,7 +12,7 @@ nav_order: 4
 
 <p><strong>speaking invitations</strong></p>
 <ul>
-<li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, Jun 2024 (incoming)</li>
+<li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, Jun 2024</li>
 <li>Computation of two-dimensional Stokes flows via lightning and AAA rational approximation,
 Computational and Applied Math Seminar, Peking University, May 2024</li>
 <li>Computation of physiological flows and transport at low Reynolds numbers, Applied and Computational Mathematics Seminar, Cardiff University, Feb 2024</li>

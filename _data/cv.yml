@@ -61,3 +61,10 @@
     - title: 3rd Year Class Medal for Mechanical Engineering
       year: 2018
       institution: School of Engineering, University of Edinburgh
+
+- title: Membership
+  type: time_table
+  contents:
+    - title: Member
+      year: 2024
+      institution: Society for Industrial and Applied Mathematics (SIAM)
