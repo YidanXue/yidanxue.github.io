@@ -1,10 +1,22 @@
 ---
 ---
 
-@article{Xue2023b,
-  title={Stokes flows in a 2D bifurcation},
+@article{Xue2024_periodic,
+  title={Computing Stokes flows in periodic channels via rational approximation},
+  author={Xue, Yidan},
+  abstract={Rational approximation has proven to be a powerful method for solving two-dimensional (2D) fluid problems. At small Reynolds numbers, 2D Stokes flows can be represented by two analytic functions, known as Goursat functions. Xue, Waters and Trefethen [SIAM J. Sci. Comput., 46 (2024), pp. A1214-A1234] recently introduced the LARS algorithm (Lightning-AAA Rational Stokes) for computing 2D Stokes flows in general domains by approximating the Goursat functions using rational functions. In this paper, we introduce a new algorithm for computing 2D Stokes flows in periodic channels using trigonometric rational functions, with poles placed via the AAA-LS algorithm [Costa and Trefethen, European Congr. Math., 2023] in a conformal map of the domain boundary. We apply the algorithm to Poiseuille and Couette problems between various periodic channel geometries, where solutions are computed to at least 6-digit accuracy in less than 1 second. The applicability of the algorithm is highlighted in the computation of the dynamics of fluid particles in unsteady Couette flows.},
+  journal={arXiv},
+  year={2024},
+  doi={10.48550/arXiv.2407.14864},
+  html={https://doi.org/10.48550/arXiv.2407.14864},
+  google_scholar_id={4TOpqqG69KYC},
+  preview={mixing.pdf}
+}
+
+@article{Xue2024_bifurcation,
+  title={Stokes flows in a two-dimensional bifurcation},
   author={Xue, Yidan and Payne, Stephen J and Waters, Sarah L},
-  abstract={The flow network model is an established approach to approximate pressure-flow relationships in a network, which has been widely used in many contexts. However, little is known about the impact of bifurcation geometry on such approximations, so the existing models mostly rely on unidirectional flow assumption and Poiseuille's law, and thus neglect the flow details at each bifurcation. In this work, we address these limitations by computing Stokes flows in a 2D bifurcation using LARS (Lightning-AAA Rational Stokes), a novel mesh-free algorithm for solving 2D Stokes flow problems utilising an applied complex analysis approach based on rational approximation of the Goursat functions. Using our 2D bifurcation model, we show that the fluxes in two child branches depend on not only pressures and widths of inlet and outlet branches, as most previous studies have assumed, but also detailed bifurcation geometries (e.g. bifurcation angle), which were not considered in previous studies. The 2D Stokes flow simulations allow us to represent the relationship between pressures and fluxes of a bifurcation using an updated flow network, which considers the bifurcation geometry and can be easily incorporated into previous flow network approaches. The errors in the flow conductance of a channel in a bifurcation approximated using Poiseuille's law can be greater than 16%, when the centreline length is twice the inlet channel width and the bifurcation geometry is highly asymmetric. In addition, we present details of 2D Stokes flow features, such as flow separation in a bifurcation and flows around fixed objects at different locations, which previous flow network models cannot capture. These findings suggest the importance of incorporating detailed flow modelling techniques alongside existing flow network approaches when solving complex flow problems.},
+  abstract={The flow network model is an established approach to approximate pressure-flow relationships in a bifurcating network, and has been widely used in many contexts. Existing models typically assume unidirectional flow and exploit Poiseuille's law, and thus neglect the impact of bifurcation geometry and finite-sized objects on the flow. We determine the impact of bifurcation geometry and objects by computing Stokes flows in a two-dimensional (2D) bifurcation using the LARS (Lightning-AAA Rational Stokes) algorithm, a novel mesh-free algorithm for solving 2D Stokes flow problems utilising an applied complex analysis approach based on rational approximation of the Goursat functions. We compute the flow conductances of bifurcations with different channel widths, bifurcation angles, curved boundary geometries, and fixed circular objects. We quantify the difference between the computed conductances and their Poiseuille's law approximations to demonstrate the importance of incorporating detailed bifurcation geometry into existing flow network models. We parameterise the flow conductances of 2D bifurcation as functions of the dimensionless parameters of bifurcation geometry and a fixed object using a machine learning approach, which is simple to use and provides more accurate approximations than Poiseuille's law. Finally, the details of the 2D Stokes flows in bifurcations are presented.},
   journal={arXiv},
   year={2023},
   doi={10.48550/arXiv.2309.11230},
