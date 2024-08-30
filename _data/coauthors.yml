@@ -6,6 +6,14 @@
   - firstname: ["Rudolf"]
     url: https://www.linkedin.com/in/rudolf-hellmuth-27606263/
 
+"jabi":
+  - firstname: ["Wassim", "W"]
+    url: https://profiles.cardiff.ac.uk/staff/jabiw
+
+"kaouri":
+  - firstname: ["Katerina", "K"]
+    url: https://profiles.cardiff.ac.uk/staff/kaourik
+
 "payne":
   - firstname: ["Stephen J", "Stephen", "S J"]
     url: https://www.cerebralhaemodynamics.com/
@@ -21,3 +29,7 @@
 "waters":
   - firstname: ["Sarah L", "Sarah", "S L"]
     url: https://www.maths.ox.ac.uk/people/sarah.waters
+
+"woolley":
+  - firstname: ["Thomas E", "T E", "Thomas"]
+    url: https://profiles.cardiff.ac.uk/staff/woolleyt1

@@ -6,7 +6,7 @@ title: Yidan Xue # the website title (if blank, full name will be used instead)
 first_name: Yidan
 middle_name: 
 last_name: Xue
-email: XueY25@cardiff.ac.uk
+email: yidan.xue@manchester.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
@@ -114,7 +114,7 @@ google_analytics: G-PFJSRN9DB1 # your Google Analytics measurement ID (format: G
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: <meta name="google-site-verification" content="l2cgdOg8lbxzTlsT9vj1Rax2Engx6Yu78qsTZvK9WvE" /> # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------

@@ -17,8 +17,14 @@
   type: time_table
   contents:
     - title: Research Associate
+      institution: School of Health Sciences, The University of Manchester
+      year: 2024.8-now
+      description:
+        - 'Supervisor: Professor Alex Frangi'
+        - Developing in-silico trials for TAVI (Transcatheter Aortic Valve Implantation) devices.
+    - title: Research Associate
       institution: School of Mathematics, Cardiff University
-      year: 2024.1-now
+      year: 2024.1-2024.7
       description:
         - 'Supervisors: Drs Thomas Woolley and Katerina Kaouri'
         - Developing an agent-based model for indoor epidemic simulations, in collaboration with Professor Wassim Jabi.

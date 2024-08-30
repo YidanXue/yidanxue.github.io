@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate, School of Mathematics, Cardiff University
+subtitle: Postdoctoral Research Associate, School of Health Sciences, The University of Manchester
 
 profile:
   align: right
@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoc at Cardiff University working with Drs Thomas Woolley and Katerina Kaouri on developing an indoor epidemic simulator. I was an EPSRC Postdoctoral Research Associate at the Mathematical Institute of the University of Oxford, working on Stokes flows and microparticle transport in micro-vessel bifurcations with Professor Sarah Waters. With Professor Nick Trefethen, we developed a rational approximation algorithm for computing 2D Stokes flows. Before this, I did my DPhil  on modelling oxygen transport and tissue damage in the human brain with Professor Stephen Payne at Institute of Biomedical Engineering, University of Oxford. I received my BEng (Hons) in Mechanical Engineering from the University of Edinburgh.
+I am currently a postdoctoral researcher in Professor Alex Frangi's group in School of Health Sciences at the University of Manchester. My research focuses on the development of in-silico trials for TAVI (Transcatheter Aortic Valve Implantation) devices. Prior to this, I held postdoctoral positions in applied mathematics at both Cardiff University and University of Oxford. I did my DPhil on modelling oxygen transport and tissue damage in the human brain with Professor Stephen Payne at Institute of Biomedical Engineering, University of Oxford. I received my BEng (Hons) in Mechanical Engineering from the University of Edinburgh.
