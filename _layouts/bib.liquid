@@ -208,6 +208,12 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.web_app %}
+        <a href="{{ entry.web_app }}" class="btn btn-sm z-depth-0" role="button">Web App</a>
+      {% endif %}
+      {% if entry.news %}
+        <a href="{{ entry.news }}" class="btn btn-sm z-depth-0" role="button">News</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
