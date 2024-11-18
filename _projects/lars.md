@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LARS&#58; a 2D Stokes flow solver
+title: LARS - a 2D Stokes flow solver
 description: An algorithm to compute 2D Stokes flows with great speed and accuracy
 img: assets/img/publication_preview/heart_closeup.png
 importance: 2
