@@ -14,7 +14,7 @@ nav_order: 4
 <ul>
 <li>Computation of 2D Stokes flows via lightning and AAA rational approximation, Physical and Applied Mathematics Seminar Series, The University of Manchester, UK, Nov 2024</li>
 <li>Modelling physiological flows and transport at low Reynolds numbers, CIMIM Seminar Series (inaugural talk), The University of Manchester, UK, Oct 2024</li>
-<li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, US, Jun 2024</li>
+<li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, Oregon, US, Jun 2024</li>
 <li>Computation of two-dimensional Stokes flows via lightning and AAA rational approximation, Computational and Applied Math Seminar, Peking University, China, May 2024</li>
 <li>Computation of physiological flows and transport at low Reynolds numbers, Applied and Computational Mathematics Seminar, Cardiff University, UK, Feb 2024</li>
 <li>Computation of 2D Stokes flows via lightning and AAA rational approximation, Numerical Analysis Group Internal Seminar, University of Oxford, UK, May 2023</li>
