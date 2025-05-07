@@ -1,6 +1,14 @@
+"dou":
+  - firstname: ["Haoran", "H"]
+    url: https://wulalago.github.io
+
 "el-bouri":
   - firstname: ["Wahbi", "W K", "Wahbi K"]
     url: https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/wahbi-el-bouri/
+
+"frangi":
+  - firstname: ["Alejandro F", "Alejandro", "Alex", "A F", "A"]
+    url: https://research.manchester.ac.uk/en/persons/alejandro-frangi
 
 "hellmuth":
   - firstname: ["Rudolf"]
@@ -14,9 +22,21 @@
   - firstname: ["Katerina", "K"]
     url: https://profiles.cardiff.ac.uk/staff/kaourik
 
+"lin":
+  - firstname: ["Fengming", "F"]
+    url: https://fmlinks.github.io
+
+"macraild":
+  - firstname: ["Michael", "M"]
+    url: https://research.manchester.ac.uk/en/persons/michael-macraild
+
 "payne":
   - firstname: ["Stephen J", "Stephen", "S J"]
     url: https://www.cerebralhaemodynamics.com/
+
+"sarrami-foroushani":
+  - firstname: ["Ali", "A"]
+    url: https://scholar.google.co.uk/citations?hl=en&user=Q69Q-moAAAAJ&inst=8574086807289546695
 
 "shin":
   - firstname: ["Dong-hyuk", "Dong-Hyuk", "Donghyuk"]
@@ -33,3 +53,7 @@
 "woolley":
   - firstname: ["Thomas E", "T E", "Thomas"]
     url: https://profiles.cardiff.ac.uk/staff/woolleyt1
+
+"zakeri":
+  - firstname: ["Arezoo", "A"]
+    url: https://research.manchester.ac.uk/en/persons/arezoo-zakeri

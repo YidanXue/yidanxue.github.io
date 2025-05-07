@@ -1,5 +1,16 @@
 ---
 ---
+@article{Lin2025,
+  title={From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction},
+  author={Lin, Fengming and Zakeri, Arezoo and Xue, Yidan and MacRaild, Michael and Dou, Haoran and Zhou, Zherui and Zou, Ziwei and Sarrami-Foroushani, Ali and Duan, Jinming and Frangi, Alejandro F},
+  abstract={Deep learning-based medical image-to-mesh reconstruction has rapidly evolved, enabling the transformation of medical imaging data into three-dimensional mesh models that are critical in computational medicine and in silico trials for advancing our understanding of disease mechanisms, and diagnostic and therapeutic techniques in modern medicine. This survey systematically categorizes existing approaches into four main categories: template models, statistical models, generative models, and implicit models. Each category is analysed in detail, examining their methodological foundations, strengths, limitations, and applicability to different anatomical structures and imaging modalities. We provide an extensive evaluation of these methods across various anatomical applications, from cardiac imaging to neurological studies, supported by quantitative comparisons using standard metrics. Additionally, we compile and analyze major public datasets available for medical mesh reconstruction tasks and discuss commonly used evaluation metrics and loss functions. The survey identifies current challenges in the field, including requirements for topological correctness, geometric accuracy, and multi-modality integration. Finally, we present promising future research directions in this domain. This systematic review aims to serve as a comprehensive reference for researchers and practitioners in medical image analysis and computational medicine.},
+  journal={arXiv},
+  year={2025},
+  doi={10.48550/arXiv.2505.03599},
+  html={https://doi.org/10.48550/arXiv.2505.03599},
+  preview={lin2025.png}
+}
+
 @article{Payne2025,
   title={Transit time mean and variance are markers of vascular network structure, wall shear stress distribution and oxygen extraction fraction},
   author={Payne, Stephen J and Xue, Yidan and Kuo, Jen-Feng and El-Bouri, Wahbi K},
@@ -24,12 +35,13 @@
 @article{Xue2025_periodic,
   title={Computing Stokes flows in periodic channels via rational approximation},
   author={Xue, Yidan},
-  abstract={Rational approximation has proven to be a powerful method for solving two-dimensional (2D) fluid problems. At small Reynolds numbers, 2D Stokes flows can be represented by two analytic functions, known as Goursat functions. Xue, Waters and Trefethen [SIAM J. Sci. Comput., 46 (2024), pp. A1214-A1234] recently introduced the LARS algorithm (Lightning-AAA Rational Stokes) for computing 2D Stokes flows in general domains by approximating the Goursat functions using rational functions. In this paper, we introduce a new algorithm for computing 2D Stokes flows in periodic channels using trigonometric rational functions, with poles placed via the AAA-LS algorithm [Costa and Trefethen, European Congr. Math., 2023] in a conformal map of the domain boundary. We apply the algorithm to Poiseuille and Couette problems between various periodic channel geometries, where solutions are computed to at least 6-digit accuracy in less than 1 second. The applicability of the algorithm is highlighted in the computation of the dynamics of fluid particles in unsteady Couette flows.},
-  journal={Proceedings of the Royal Society A (to appear)},
+  abstract={Rational approximation has proven to be a powerful method for solving two-dimensional fluid problems. At small Reynolds numbers, two-dimensional Stokes flows can be represented by two analytic functions, known as Goursat functions. (Xue et al. 2024 SIAM J. Sci. Comput. 46, A1214-A1234 (doi:10.1137/23m1576876)) recently introduced the lightning-adaptive Antoulas-Anderson (AAA) rational Stokes algorithm for computing two-dimensional Stokes flows in general domains by approximating the Goursat functions using rational functions. In this paper, we introduce a new algorithm for computing two-dimensional Stokes flows in periodic channels using trigonometric rational functions, with poles placed via the AAA-least squares algorithm (Costa & Trefethen 2023 In European Congress of Mathematics (ed. A Hujdurović), pp. 511-534 (doi:10.4171/8ecm/16)) in a conformal map of the domain boundary. We apply the algorithm to Poiseuille and Couette problems between various periodic channel geometries, where solutions are computed to at least six-digit accuracy in less than 1 s. The applicability of the algorithm is highlighted in the computation of the dynamics of fluid particles in unsteady Couette flows.},
+  journal={Proceedings of the Royal Society A},
   year={2025},
-  doi={10.48550/arXiv.2407.14864},
-  html={https://doi.org/10.48550/arXiv.2407.14864},
+  doi={10.1098/rspa.2024.0676},
+  html={https://doi.org/10.1098/rspa.2024.0676},
   google_scholar_id={4TOpqqG69KYC},
+  altmetric={true},
   preview={mixing.pdf},
   code={https://github.com/YidanXue/periodic_Stokes_flow},
   selected={true}
@@ -88,7 +100,7 @@
 @article{Xue2022,
   title={Quantification of hypoxic regions distant from occlusions in cerebral penetrating arteriole trees},
   author={Xue, Yidan and Georgakopoulou, Theodosia and Van der Wijk, Anne-Eva and J{\'o}zsa, Tam{\'a}s I and {van Bavel}, Ed and Payne, Stephen J},
-  abstract={The microvasculature plays a key role in oxygen transport in the mammalian brain. Despite the close coupling between cerebral vascular geometry and local oxygen demand, recent experiments have reported that microvascular occlusions can lead to unexpected distant tissue hypoxia and infarction. To better understand the spatial correlation between the hypoxic regions and the occlusion sites, we used both in vivo experiments and in silico simulations to investigate the effects of occlusions in cerebral penetrating arteriole trees on tissue hypoxia. In a rat model of microembolisation, 25 &mu;m microspheres were injected through the carotid artery to occlude penetrating arterioles. In representative models of human cortical columns, the penetrating arterioles were occluded by simulating the transport of microspheres of the same size and the oxygen transport was simulated using a Green’s function method. The locations of microspheres and hypoxic regions were segmented, and two novel distance analyses were implemented to study their spatial correlation. The distant hypoxic regions were found to be present in both experiments and simulations, and mainly due to the hypoperfusion in the region downstream of the occlusion site. Furthermore, a reasonable agreement for the spatial correlation between hypoxic regions and occlusion sites is shown between experiments and simulations, which indicates the good applicability of in silico models in understanding the response of cerebral blood flow and oxygen transport to microemboli.},
+  abstract={The microvasculature plays a key role in oxygen transport in the mammalian brain. Despite the close coupling between cerebral vascular geometry and local oxygen demand, recent experiments have reported that microvascular occlusions can lead to unexpected distant tissue hypoxia and infarction. To better understand the spatial correlation between the hypoxic regions and the occlusion sites, we used both in vivo experiments and in silico simulations to investigate the effects of occlusions in cerebral penetrating arteriole trees on tissue hypoxia. In a rat model of microembolisation, 25 &mu;m microspheres were injected through the carotid artery to occlude penetrating arterioles. In representative models of human cortical columns, the penetrating arterioles were occluded by simulating the transport of microspheres of the same size and the oxygen transport was simulated using a Green's function method. The locations of microspheres and hypoxic regions were segmented, and two novel distance analyses were implemented to study their spatial correlation. The distant hypoxic regions were found to be present in both experiments and simulations, and mainly due to the hypoperfusion in the region downstream of the occlusion site. Furthermore, a reasonable agreement for the spatial correlation between hypoxic regions and occlusion sites is shown between experiments and simulations, which indicates the good applicability of in silico models in understanding the response of cerebral blood flow and oxygen transport to microemboli.},
   journal={PLOS Computational Biology},
   volume={18},
   number={8},
