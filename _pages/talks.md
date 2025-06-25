@@ -12,6 +12,7 @@ nav_order: 4
 
 <p><strong>speaking invitations</strong></p>
 <ul>
+<li>Mechanistic simulations in real-world systems for medical device innovation, Simulation Workshop (5-min lightning talk), AI for Research: How Can AI Disrupt the Research Process, The University of Manchester, UK, Jun 2025</li>
 <li>Computation of 2D Stokes flows via lightning and AAA rational approximation, Physical and Applied Mathematics Seminar Series, The University of Manchester, UK, Nov 2024</li>
 <li>Modelling physiological flows and transport at low Reynolds numbers, CIMIM Seminar Series (inaugural talk), The University of Manchester, UK, Oct 2024</li>
 <li>A state-of-the-art epidemic simulator and web app for viral transmission in indoor spaces, SIAM Conference on the Life Sciences, Portland, Oregon, US, Jun 2024</li>
