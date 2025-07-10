@@ -5,7 +5,7 @@ description: An algorithm to compute 2D Stokes flows with great speed and accura
 img: assets/img/publication_preview/heart_closeup.png
 importance: 2
 # category:
-related_publications: false
+related_publications: true
 ---
 
-At Oxford Maths, we developed a 2D Stokes flow solver LARS (Lightning-AAA Rational Stokes) using rational approximation. It uses the lightning algorithm for sharp corners (Gopal and Trefethen, 2019; Brubeck and Trefethen, 2022), the AAA algorithm for curved boundaries (Nakatsukasa et al., 2018), and a series method (Trefethen, 2018) for multiply connected domains. The solver works for most 2D Stokes problems with different geometries and boundary conditions. In most cases, a solution can be obtained to 6-digit accuracy in less than 1 second on a laptop. Example MATLAB codes can be found on <a href="https://github.com/YidanXue/LARS">GitHub</a>.
+We developed a 2D Stokes flow solver LARS (Lightning-AAA Rational Stokes) using rational approximation {% cite Xue2024 %}. It uses the lightning algorithm for sharp corners (Gopal and Trefethen, 2019; Brubeck and Trefethen, 2022), the AAA algorithm for curved boundaries (Nakatsukasa et al., 2018), and a series method (Trefethen, 2018) for multiply connected domains. The solver works for most 2D Stokes problems with different geometries and boundary conditions. In most cases, a solution can be obtained to 6-digit accuracy in less than 1 second on a laptop. Example MATLAB codes can be found on <a href="https://github.com/YidanXue/LARS">GitHub</a>. Further application of the algorithm to Stokes flows in a 2D bifurcation can be found in {% cite Xue2025_bifurcation %}. An extension of rational approximation methods for periodic Stokes flows can be found in {% cite Xue2025_periodic %}.

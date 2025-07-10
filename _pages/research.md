@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research focuses on using mathematical models and numerical methods to understand biological processes and systems.
+description: My research focuses on developing mathematical and computational models to tackle real-world medical challenges. I am particularly interested in developing in-silico trials for assessing the performance of medical products.
 nav: true
 nav_order: 2
 # display_categories: []

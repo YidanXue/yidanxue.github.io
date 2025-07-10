@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate, School of Health Sciences, The University of Manchester
+subtitle: Developing Mathematical & Engineering Solutions for Medical Challenges
 
 profile:
   align: right

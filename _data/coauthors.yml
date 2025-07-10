@@ -18,6 +18,10 @@
   - firstname: ["Rudolf"]
     url: https://www.linkedin.com/in/rudolf-hellmuth-27606263/
 
+"hoekstra":
+  - firstname: ["Alfons", "Alfons G", "A G"]
+    url: https://www.alfons-hoekstra.eu
+
 "jabi":
   - firstname: ["Wassim", "W"]
     url: https://profiles.cardiff.ac.uk/staff/jabiw
@@ -49,6 +53,10 @@
 "trefethen":
   - firstname: ["Lloyd N", "L N"]
     url: https://people.maths.ox.ac.uk/trefethen/
+
+"van bavel":
+  - firstname: ["Ed", "E"]
+    url: https://amsterdamumc.org/en/research/researchers/ed-van-bavel.htm
 
 "waters":
   - firstname: ["Sarah L", "Sarah", "S L"]
