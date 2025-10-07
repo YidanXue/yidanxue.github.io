@@ -12,6 +12,7 @@ nav_order: 4
 
 <p><strong>speaking invitations</strong></p>
 <ul>
+<li>Towards StressMAP: A TAVI deployment simulation workflow for stress-based surrogate modelling of pacemaker dependency, The 10th Biennial Heart Valve Biology & Tissue Engineering Meeting, The Royal Society, London, UK, Sep 2025</li>
 <li>Mechanistic simulations in real-world systems for medical device innovation, Simulation Workshop (5-min lightning talk), AI for Research: How Can AI Disrupt the Research Process, The University of Manchester, UK, Jun 2025</li>
 <li>Computation of 2D Stokes flows via lightning and AAA rational approximation, Physical and Applied Mathematics Seminar Series, The University of Manchester, UK, Nov 2024</li>
 <li>Modelling physiological flows and transport at low Reynolds numbers, CIMIM Seminar Series (inaugural talk), The University of Manchester, UK, Oct 2024</li>
