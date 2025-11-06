@@ -25,6 +25,7 @@ nav_order: 4
 
 <p><strong>other conference presentations</strong></p>
 <ul>
+<li>An automatic workflow for in-silico clinical trials of TAVI devices: From images to deployment and stress analysis, 2025 MDIC Symposium on Computational Modeling & Simulation, Hyattsville, Maryland, US, Nov 2025</li>
 <li>Computation of 2D Stokes flows via lightning and AAA rational approximation. Numerical Analysis in the 21st Century in honour of Nick Trefethen’s retirement from Oxford, Oxford, Aug 2023</li>
 <li>Modelling human cerebral tissue damage caused by acute ischaemic stroke, 9th World Congress of Biomechanics, Taipei (online), Jul 2022</li>
 <li>Modelling brain metabolism in ischaemic stroke: oxygen consumption and energy budget, VPH2020, Paris (online), Aug 2020</li>
