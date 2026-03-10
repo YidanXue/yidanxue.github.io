@@ -71,6 +71,12 @@
 - title: Membership
   type: time_table
   contents:
+    - title: Committee Member
+      year: 2026
+      institution: ISO TC/150 Implants for surgery
+    - title: Committee Member
+      year: 2026
+      institution: BSI CH/150 Implants for surgery
     - title: Member
       year: 2024
       institution: Society for Industrial and Applied Mathematics (SIAM)
