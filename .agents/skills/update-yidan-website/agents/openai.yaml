@@ -1,0 +1,5 @@
+interface:
+  display_name: "Update Yidan Website"
+  short_description: "Maintain Yidan’s personal academic website"
+policy:
+  allow_implicit_invocation: true
